@@ -1,0 +1,4 @@
+repository "CoralScape/CoralScape@20066996892075@cloud"
+  path "/"
+    br "/main"
+    co "/main"
